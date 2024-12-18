@@ -1,0 +1,13 @@
+sections to be made :
+  - Navbar
+  - Hero section
+  - Footer
+
+
+For styling :
+  - use tailwind css
+  - Bootstrap (if required)
+
+  Framework to be used :
+    -> Vite + React
+
